@@ -1,9 +1,0 @@
-C:\Users\lrossign\source\repos\ASP.NET---MVVM-With-Features-And-Bug-Fixes\MVVMWebAppTemplate\Shared\bin\Debug\netstandard2.0\Shared.deps.json
-C:\Users\lrossign\source\repos\ASP.NET---MVVM-With-Features-And-Bug-Fixes\MVVMWebAppTemplate\Shared\bin\Debug\netstandard2.0\Shared.dll
-C:\Users\lrossign\source\repos\ASP.NET---MVVM-With-Features-And-Bug-Fixes\MVVMWebAppTemplate\Shared\bin\Debug\netstandard2.0\Shared.pdb
-C:\Users\lrossign\source\repos\ASP.NET---MVVM-With-Features-And-Bug-Fixes\MVVMWebAppTemplate\Shared\obj\Debug\netstandard2.0\Shared.csprojResolveAssemblyReference.cache
-C:\Users\lrossign\source\repos\ASP.NET---MVVM-With-Features-And-Bug-Fixes\MVVMWebAppTemplate\Shared\obj\Debug\netstandard2.0\Shared.csproj.CoreCompileInputs.cache
-C:\Users\lrossign\source\repos\ASP.NET---MVVM-With-Features-And-Bug-Fixes\MVVMWebAppTemplate\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfoInputs.cache
-C:\Users\lrossign\source\repos\ASP.NET---MVVM-With-Features-And-Bug-Fixes\MVVMWebAppTemplate\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfo.cs
-C:\Users\lrossign\source\repos\ASP.NET---MVVM-With-Features-And-Bug-Fixes\MVVMWebAppTemplate\Shared\obj\Debug\netstandard2.0\Shared.dll
-C:\Users\lrossign\source\repos\ASP.NET---MVVM-With-Features-And-Bug-Fixes\MVVMWebAppTemplate\Shared\obj\Debug\netstandard2.0\Shared.pdb
