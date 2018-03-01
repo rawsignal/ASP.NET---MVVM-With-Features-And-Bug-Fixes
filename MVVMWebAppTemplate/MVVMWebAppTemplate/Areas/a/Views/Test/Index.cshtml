@@ -1,0 +1,32 @@
+﻿<!--ko with: test-->
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<section id="test" class="view panel panel-default panel-body">
+    <div class="container-fluid view-container">
+        <div class="row-fluid text-center">
+            <div class="container-fluid bs-component">
+                <h2>Section</h2>
+            </div>
+            <hr class="my-4" />
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row-fluid text-center">
+            <h3>Section</h3>
+            <button class="btn btn-danger" data-bind="click: setLoadingOn">Press To See Load Icon</button>
+            <button class="btn btn-success" data-bind="click: setLoadingOff">Press To Dismiss Load Icon</button>
+        </div>
+    </div>
+</section>
+
+
+@section Scripts{
+    @Scripts.Render("~/bundles/knockout")
+    @Scripts.Render("~/bundles/app")
+    @Scripts.Render("~/bundles/a")
+}
+
+<!--/ko-->
